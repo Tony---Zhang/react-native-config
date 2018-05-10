@@ -150,13 +150,13 @@ This is still a bit experimental and dirty – let us know if you have a better
 Install the package:
 
 ```
-$ yarn add react-native-config
+$ yarn add react-native-config-t7
 ```
 
 Link the library:
 
 ```
-$ react-native link react-native-config
+$ react-native link react-native-config-t7
 ```
 
 
